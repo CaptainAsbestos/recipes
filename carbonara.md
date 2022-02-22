@@ -2,23 +2,23 @@
 
 ## Ingredients
 
-Proportions are a matter of taste. Make however much of each you like or as needed while cooking, its impossible to screw it up.
-
 - Noodles
-- Bacon 
-- Yellow Onion
-- Eggs
-- Cream
-- Garlic
+    * This Recipe works great with fresh Zucchini 
+- As much Bacon as you like
+- 2 Yellow Onions
+- 4 Eggs
+- 4 cloves Garlic
+- Cream (Optional)
 - Black Pepper
-- Parmesan
+- Gourmet Parmesan -- Get a nice nutty one
 
 ## Preparation
 
-1. Boil Noodles while preparing the rest.
+1. Boil Noodles (Sans salt) while preparing the rest.
 2. Slice and dice the onions. 
-3. Whisk eggs in a separate bowl with cream.
-4. Fry Bacon strips in Pan. Remove when they look fit to eat.
-5. Fry the onions in the fat until clear. Add garlic and cracked black pepper, and fry until garlic is golden
-6. Add the eggs and scramble them. Add LOTS of parmesan. Reduce heat.
-6. Crumble bacon back into the sauce and serve. 
+3. Fry Bacon strips in Pan. Remove when they look fit to eat, drain the Bacon grease. (Save in separate container for other recipes)
+4. Add olive oil to the pan and get fry the onions until they become clear.
+5. Add garlic and cracked black pepper, and fry until garlic is golden. Deglaze the pan with pasta water to prevent garlic from burning.
+6. Add the eggs and scramble them. Add paremsan and pasta water, stir them together to thicken the sauce. Reduce heat.
+7. At this point, sample the sauce and determine if it is too salty. If so, add whipping cream and let it stew for a bit. If it isn't salty enough, bear in mind that the fried ham will introduce more saltiness. Let your guests add parmesan if they want more salt.
+8. Crumble bacon back into the sauce and serve. 
