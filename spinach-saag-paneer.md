@@ -13,13 +13,14 @@ from Wikihow
 - 1/2 tsp Cumin
 - 1/2 tsp Turmeric
 - 1 tsp Garam Masala (add @ end)
-- 2-3 Green Chilis
+- 2-3 Green Chilis (I use green chili chutney)
 - Jogurt (optional)
+- 2 pods of Black Cardamom (optional)
 - Can of tomato paste (optional)
 - Chicken Stock
 - Ghee for frying (clarified butter will work in a pinch)
 - Salt to taste 
-- Long-grain rice if you want
+- Long-grain rice if you want (or baked spaghetti squash for low-carb alternative)
 
 ## Preparation
 
