@@ -21,4 +21,4 @@
 5. Add garlic and cracked black pepper, and fry until garlic is golden. Deglaze the pan with pasta water to prevent garlic from burning.
 6. Add the eggs and scramble them. Add paremsan and pasta water, stir them together to thicken the sauce. Reduce heat.
 7. At this point, sample the sauce and determine if it is too salty. If so, add whipping cream and let it stew for a bit. If it isn't salty enough, bear in mind that the fried ham will introduce more saltiness. Let your guests add parmesan if they want more salt.
-8. Crumble bacon back into the sauce and serve. 
+8. Crumble bacon back into the sauce and serve. This dish goes well with a sweet/sour balsamic vinaigrette salad.
