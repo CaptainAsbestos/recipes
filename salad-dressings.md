@@ -45,3 +45,13 @@ Tastes amazing on steak salad.
 ---
 
 # Green Goddess
+
+- 1/2 Cup Sour Cream
+- 1/2 Cup Mayonnaise
+- 2 Garlic Cloves, Minced
+- 1 cup fresh herbs:
+    * Basil
+    * Dill
+    * Tarragon
+    * Parsley
+- Salt & Pepper
