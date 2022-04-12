@@ -14,8 +14,8 @@
 ### The Salad
 
 - 16 oz of Orzo Pasta 
-    * Substitute with 1 Green Bell pepper for non-gluten Keto alternative 
-- 8 ounces Feta Cheese, crumbled
+    * Substitute with 1 Green Bell pepper for gluten-free and low-carb alternative 
+- 8 ounces Bulgarian Goat Feta Cheese, crumbled
 - 2 english cucumbers, seeded and diced
 - 2 large ripe tomatoes, seeded and diced
     * Or just a handful of a cherry tomatoes
