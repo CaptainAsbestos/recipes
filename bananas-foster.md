@@ -21,14 +21,14 @@ Optional:
 
 1. Peel and slice bananas.
 2. Combine butter, sugar, and cinnamon in a flambe pan or wok. Melt the butter on ***medium heat***.
-  3. If so desired, add the pecans at this stage to get them nice and toasted. 
-4. As the butter melt, add the banana liquor to stabilise the temperature at alcohol's boiling point. Stir to combine.
-5. As the sauce starts to cook, add the bananas.
-6. Cook the fruit until they soften (ca. 60-120 seconds).
-7. Tilt the pan back to slightly heat the far edge. Once hot, carefully add the rum, tilting the pan towards the flame to ignite the rum.
-8. Stir the sauce to ensure that all of the alcohol cooks out.
-  9. Add the orange juice at this stage if so desired. 
-10. Serve the sauce and fruit over vanilla ice cream.
-  10. Grind fresh Nutmeg over the top for some extra kick.
+    * If so desired, add the pecans at this stage to get them nice and toasted. 
+3. As the butter melt, add the banana liquor to stabilise the temperature at alcohol's boiling point. Stir to combine.
+4. As the sauce starts to cook, add the bananas.
+5. Cook the fruit until they soften (ca. 60-120 seconds).
+6. Tilt the pan back to slightly heat the far edge. Once hot, carefully add the rum, tilting the pan towards the flame to ignite the rum.
+7. Stir the sauce to ensure that all of the alcohol cooks out.
+    * Add the orange juice at this stage if so desired. 
+8. Serve the sauce and fruit over vanilla ice cream.
+    * Grind fresh Nutmeg over the top for some extra kick.
 
 Serve with coffee, preferably chicory coffee in true New Orleans style.
