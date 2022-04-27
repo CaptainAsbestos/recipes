@@ -36,6 +36,18 @@ Tastes amazing on steak salad.
 
 # Tzatziki Sauce
 
+- 1 English cucumber, peeled and puréed
+- 1.5 cups Greek Joghurt
+- 0.5 cups Sour Cream
+- 1 or 2 cloves Garlic, minced
+- 1 teaspoon chopped Dill weed
+- 1 lemon, squeezed
+- Olive oil, to taste
+- 0.5 teaspoon salt (or to taste)
+- Fresh ground black pepper
+
+Pulverise the cucumber until it is a paste, use a cheese cloth or paper towel to squeeze the water out of the paste (save the juice and add it to seltzer water). Mix all the ingredients together and serve. It might taste better if it sits in the fridge an hour or so; it will keep for 2 days in the fridge. 
+
 ---
 
 # Tartar Sauce
