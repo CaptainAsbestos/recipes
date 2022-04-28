@@ -67,3 +67,17 @@ Pulverise the cucumber until it is a paste, use a cheese cloth or paper towel to
     * Tarragon
     * Parsley
 - Salt & Pepper
+
+---
+
+# Truffle Aioli with Parsley \& Parmesan
+
+- Truffle-infused Olive Oil
+- Black Pepper
+- Parsley (or Cilantro)
+- A dash of Lemon Juice
+- White Wine Vinegar
+- Mayonnaise
+- Dijon Mustard
+- Parmesan, shredded finely
+- Worcestershire Sauce
