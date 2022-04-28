@@ -4,7 +4,7 @@ linkcolor: blue
 
 # Dal Makhani (Butter Lentils)
 
-from [allrecipes](https://www.allrecipes.com/recipe/222667/dal-makhani-indian-lentils/)
+from [https://www.allrecipes.com/recipe/222667/dal-makhani-indian-lentils/](https://www.allrecipes.com/recipe/222667/dal-makhani-indian-lentils/)
 
 ## Ingredients
 

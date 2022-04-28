@@ -1,6 +1,10 @@
+---
+linkcolor: blue
+---
+
 # Shrimp Tacos
 
-by Lena Abraham, https://www.delish.com/cooking/a21271308/cilantro-lime-shrimp-tacos-recipe/
+by Lena Abraham, [https://www.delish.com/cooking/a21271308/cilantro-lime-shrimp-tacos-recipe/](https://www.delish.com/cooking/a21271308/cilantro-lime-shrimp-tacos-recipe/)
 
 Serves 4.
 
