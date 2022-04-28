@@ -1,6 +1,10 @@
+---
+linkcolor: blue
+---
+
 # Brennan's Bananas Foster
 
-https://www.brennansneworleans.com/recipes/bananas-foster/
+Famous fruit desert from a [French Quarter Institution](https://www.brennansneworleans.com/recipes/bananas-foster/)
 
 ## Ingredients 
 
