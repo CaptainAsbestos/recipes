@@ -32,6 +32,23 @@ Tastes amazing on steak salad.
 
 # Thousand Island
 
+- 1 boiled egg
+- 1 cup (250 ml) lite mayo
+- 0.25 cup (50 ml) sugar-free ketchup
+- 2 tablespoon white wine vinegar or lemon juice
+- 1 tablespoon sweet relish
+- 1 tablespoon Worcestershire sauce
+- Half an onion
+- 5-6 pitted black olives
+- 1-2 slices of red pepper confit
+- Pinches of:
+    * Ground Cloves
+    * Cayenne
+    * Salt
+    * Pepper
+
+Blend together in food processor.
+
 ---
 
 # Tzatziki Sauce
