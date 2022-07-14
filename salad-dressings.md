@@ -98,3 +98,16 @@ Pulverise the cucumber until it is a paste, use a cheese cloth or paper towel to
 - Dijon Mustard
 - Parmesan, shredded finely
 - Worcestershire Sauce
+
+---
+
+# Nuoc Cham (Vietnamese dipping sauce)
+
+- 0.5 cup warm water
+- 3 tablespoons fresh lime juice
+- 2 tablespoons sugar 
+- 2 teaspoons rice vinegar
+- 3 tablespoons fish sauce
+- half a carrot, grated coarsely
+- 1 once of serrano chile, unseeded and thin sliced (chili paste will work too)
+- 1 large garlic clove, minced
