@@ -36,5 +36,15 @@ Basting sauce:
 3. Prepare the basting sauce in a separate bowl, mixing well.
 4. When the meat is ready, preheat grill. Grill each strip on one side for 3-4 minutes, flipping over and basting for another three minutes until completely cooked.
 
-Serve with pickled papaya and rice (or use this as the protein in Vietnamese Bun, it's basically the same thing).
+Serve with pickled papaya and rice (or use this as the protein in Vietnamese Bún, it's basically the same thing).
 
+### Nước Chấm (Vietnamese dipping sauce)
+
+- 0.5 cup warm water
+- 3 tablespoons fresh lime juice
+- 2 tablespoons sugar 
+- 2 teaspoons rice vinegar
+- 3 tablespoons fish sauce
+- half a carrot, grated coarsely
+- 1 once of serrano chile, unseeded and thin sliced (chili paste will work too)
+- 1 large garlic clove, minced
