@@ -101,7 +101,7 @@ Pulverise the cucumber until it is a paste, use a cheese cloth or paper towel to
 
 ---
 
-# Nuoc Cham (Vietnamese dipping sauce)
+# Nước Chấm (Vietnamese dipping sauce)
 
 - 0.5 cup warm water
 - 3 tablespoons fresh lime juice
@@ -111,3 +111,16 @@ Pulverise the cucumber until it is a paste, use a cheese cloth or paper towel to
 - half a carrot, grated coarsely
 - 1 once of serrano chile, unseeded and thin sliced (chili paste will work too)
 - 1 large garlic clove, minced
+
+---
+
+# Remoulade
+
+- 1.25 cups mayonnaise
+- 1/4 cup mustard (Creole mustard if possible)
+- 1 tablespoon sweet paprika
+- 1 to 2 teaspoons Cajun or Creole seasoning, divided (see recipe note)
+- 2 teaspoons prepared horseradish
+- 1 teaspoon pickle juice (dill or sweet, your preference)
+- 1 teaspoon hot sauce (preferably Tabasco)
+- 1 large clove garlic, minced and smashed
