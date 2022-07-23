@@ -8,7 +8,7 @@ link-color: blue
 - Bell peppers
 - tomatoes
 - green onions
-- garlic cloves, minced
+- garlic cloves, minced (easy on them, their presence in the soup's flavour will intensify over time, so use less than your instincts or appetite call for)
 - lime juice
 - 2.5 cups vegetable broth
 - Vinegar:

@@ -6,18 +6,20 @@ link-color: blue
 
 ## 1. Béarnaise 
 
-by Sam Sifton for [NYT](https://cooking.nytimes.com/recipes/1017389-bearnaise-sauce)
+by Sam Sift on for [NYT](https://cooking.nytimes.com/recipes/1017389-bearnaise-sauce)
 
 Serves four, takes 20 minutes
 
 ### Ingredients
 
-- 0.25 cup white wine vinegar
+- 1/8 cup white wine vinegar
 - 1 small shallot peeled and minced
+    * alternatively, use 3 entire stalks of green onion
 - 0.5 teaspoon cracked black pepper
 - 1 tablespoon + 1 teaspoon chopped tarragon
-- 2 egg yolks
-- 12 tablespoons unsalted butter, melted
+    * alternatively, use a ton of fresh basil
+- 1 egg yolk
+- 6 tablespoons unsalted butter, melted
 - salt to taste
 - splash of lemon juice (optional)
 
