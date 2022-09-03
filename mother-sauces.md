@@ -31,4 +31,4 @@ Serves four, takes 20 minutes
 4. Turn the heat under the saucepan of water down to its lowest setting, and put the bowl on top of the pan, making sure that it does not touch the water directly. Continue to whisk the yolks until they thicken, approximately 5 to 7 minutes. You should just about double the volume of the yolks.
 5. Slowly beat in the butter, a tablespoon or two at a time, whisking slowly to combine and emulsify. Remove the bowl from the pan occasionally, so as not to overcook the eggs, and taste the sauce. Season with salt. If the flavor is not sharp enough, add a splash of lemon juice. If the sauce is too thick, stir in a splash of hot water. Add the remaining teaspoon of tarragon leaves, and serve.
 
-Goes great on steak, asparagus, and fish. Crab meat is also a good companion, making it "Oscar" style
+Goes great on steak, asparagus, and fish. Crab meat is also a good companion, making it "Oscar" style; Garnish with almonds.
