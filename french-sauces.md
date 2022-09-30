@@ -12,13 +12,13 @@ Serves four, takes 20 minutes
 
 ### Ingredients
 
-- 1/8 cup white wine vinegar
-- 1 small shallot peeled and minced
+- 1/4 cup white wine vinegar
+- 2 small shallot peeled and minced
     * alternatively, use 3 entire stalks of green onion
-- 0.5 teaspoon cracked black pepper
-- 1 tablespoon + 1 teaspoon chopped tarragon
+- 1 teaspoon fresh cracked black pepper
+- 3 tablespoons chopped tarragon
     * alternatively, use a ton of fresh basil
-- 1 egg yolk
+- 2 egg yolks
 - 6 tablespoons unsalted butter, melted
 - salt to taste
 - splash of lemon juice (optional)
