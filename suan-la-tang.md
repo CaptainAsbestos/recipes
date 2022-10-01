@@ -7,9 +7,9 @@ Time to cook: 3 hours
 
 ## Ingredients
 
-- 1/2 c. dried wood ear (about 20 g.)
+- 1/2 c. dried wood ear mushrooms (about 20 g.)
 - 1/2 c. dried yuba or 3/4 c. fresh yuba
-- 2 tbsp. plus 1 tsp. grapeseed oil, divided
+- 2 tbsp. plus 1 tsp. sesame oil, divided
 - 3 cloves garlic, minced
 - 2" piece fresh ginger, minced
 - 4 green onions, thinly sliced, plus more for garnish
