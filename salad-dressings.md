@@ -78,6 +78,9 @@ Pulverise the cucumber until it is a paste, use a cheese cloth or paper towel to
 - 1/2 Cup Sour Cream
 - 1/2 Cup Mayonnaise
 - 2 Garlic Cloves, Minced
+- 0.25 Cups chives
+- 2 tablespoons fresh lemon juice
+- 1 tablespoon rice vinegar
 - 1 cup fresh herbs:
     * Basil
     * Dill
