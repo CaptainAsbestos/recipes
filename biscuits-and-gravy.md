@@ -1,10 +1,22 @@
 ---
 geometry: margin=1in
+linkcolor: blue
 header-includes:
 - \usepackage{xfrac}
+- \usepackage{hyperref}
+- \usepackage{xcolor}
 - \usepackage{multicol}
 - \usepackage{enumitem}
+- \usepackage{contour}
+- \usepackage{ulem}
+- \renewcommand{\ULdepth}{1.8pt}
+- \contourlength{0.8pt}
 ---
+
+\newcommand{\myuline}[1]{%
+  \uline{\phantom{#1}}%
+  \llap{\contour{white}{#1}}%
+}
 
 \begin{center}
 \Huge \sc Vegan Biscuits \& Gravy 
@@ -14,7 +26,7 @@ header-includes:
 
 Time to cook: 30 minutes. Serves Two; eat it fresh!
 
-Based on https://www.thetasteofkosher.com/dairy-free-biscuits/
+Based on \textcolor{blue}{\myuline{\url{https://www.thetasteofkosher.com/dairy-free-biscuits/}}}
 
 ---
 
