@@ -1,6 +1,6 @@
 ---
-mainfont: Latin Modern Sans
-sansfont: CMU Concrete
+mainfont: NewComputerModern Sans
+sansfont: NewComputerModern Sans
 mainfontoptions:
 - Numbers=Lowercase
 geometry: margin=1in
