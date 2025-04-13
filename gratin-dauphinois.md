@@ -1,6 +1,6 @@
 ---
 sansfont: Latin Modern Roman Dunhill
-mainfont: Latin Modern Roman
+mainfont: CMU Serif 
 mainfontoptions:
 - Numbers=Lowercase
 geometry: margin=1in
@@ -16,7 +16,7 @@ header-includes:
 # \centering\huge\sf Gratin Dauphinois
 
 
-\lettrine{T}{his} recipe comes from Savoie. In a real Gratin Dauphinois, there is neither cheese nor egg; if you do, it's simply known as potatos au gratin. This recipe serves six as a side; it goes well with steak. Preparation time is quick, but the gratin must bake for around 90 minutes.
+\lettrine{T}{his} recipe comes from Savoie, where dairy and potatos are found in abundance. Think of it as a dish ideal for baking in a cabin while a blizzard rages outside: it can cook as long as you want, and will only taste better for it. In a real Gratin Dauphinois, there is neither cheese nor egg; if you do, it's simply known as potatos au gratin. This recipe serves six as a side; it goes well with steak. Preparation time is quick, but the gratin must bake for around 90 minutes. This is also a recipe which tastes better the day after it's made.
 
 ---
 
