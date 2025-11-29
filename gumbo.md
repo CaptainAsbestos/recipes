@@ -1,8 +1,6 @@
 ---
 mainfont: Gill Sans Nova
 sansfont: Albertus Nova
-mainfontoptions:
-- Numbers=Lowercase
 geometry: margin=1in
 header-includes:
 - \usepackage{multicol}
@@ -52,6 +50,8 @@ For the Roux:
 \end{itemize}
 
 \subsection{\sffamily\Large Preparation}
+
+\addfontfeature{Numbers=OldStyle}
 
 \begin{enumerate}
 
