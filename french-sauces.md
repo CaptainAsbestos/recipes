@@ -1,5 +1,6 @@
 ---
 link-color: blue
+geometry: margins=1in
 ---
 
 # French Sauces
