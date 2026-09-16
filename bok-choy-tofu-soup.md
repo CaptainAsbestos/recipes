@@ -32,7 +32,7 @@ Time to prepare: 15 minutes.
     \item 4 cups chicken or vegetable broth
     \item 4 slices ginger
     \item 2 green onions, sliced
-    \item 2 gloves garlic, smashed
+    \item 2 cloves garlic, smashed
     \item 2 teaspoons light soy sauce
     \item 8 cups of bok choy (Napa cabbage), sliced to bite-size piecesa (separate the white parts from the green)
     \item 5 ounces mushrooms, sliced to bite-size pieces
